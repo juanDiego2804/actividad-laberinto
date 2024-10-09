@@ -36,11 +36,11 @@ Objetivos por integrante:
 
 Alumno2:
 
-    Commit 1: realizar los pasos 1, 2, 2.1
-    Commit 3: realizar el paso 5
+  Commit 1: realizar los pasos 1, 2 y 2.1     
+  Commit 3: realizar el paso 5
     
 Alumno1: 
 
-   Commit 2: realizar los pasos 3, 3.1, 4,         
-   Commit 4: realizar el paso 5.1
+  Commit 2: realizar los pasos 3, 3.1 y 4         
+  Commit 4: realizar el paso 5.1
 
