@@ -1,4 +1,4 @@
-# actividad-laberinto
+# Actividad-laberinto
 Actividad de la materia de análisis de algoritmos
 
 Alumno1 - Juan Diego Castro Mariscal
@@ -36,9 +36,9 @@ Objetivos por integrante:
 
 Alumno2:
 
-    Commit 1: realizar los pasos 1, 2, 2.1         
+    Commit 1: realizar los pasos 1, 2, 2.1
     Commit 3: realizar el paso 5
-
+    
 Alumno1: 
 
    Commit 2: realizar los pasos 3, 3.1, 4,         
