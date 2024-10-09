@@ -12,8 +12,8 @@ Pasos a realizar:
 
 1- Define una matriz cuadrada (minimo de 6X6) que represente el laberinto. Usar valores como 0 para caminos y 1 para paredes.
 
-2- Establece la ubicación de la entrada, (siempre en 0,0) y la salida en el laberinto. Puedes designar este punto con valores especiales en la matriz.
-  2.1- Designa la entrada con el valor 0  (siempre en el origen 0,0) y la salida con el valor 2. Asegúrate de que haya al menos una ruta posible desde la entrada hasta la salida.
+2- Establece la ubicación de la entrada, (siempre en 0,0), designa la entrada con el valor 0  y la salida en el laberinto  con el valor 2.
+  2.1- Asegúrate de que haya al menos una ruta posible desde la entrada hasta la salida.
 
 3- Implementa un algoritmo de programación dinámica para encontrar un camino desde la entrada hasta la salida del laberinto.
    3.1- Divide el laberinto en secciones más pequeñas y explora recursivamente cada sección para buscar el camino correcto(optar por dividirlo en cuadrantes, filas, columnas u otras subdivisiones creativas).
