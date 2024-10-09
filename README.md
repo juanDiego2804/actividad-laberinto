@@ -1,13 +1,15 @@
 # actividad-laberinto
-actividad de la materia de análisis de algoritmos
+Actividad de la materia de análisis de algoritmos
 
 Alumno1 - Juan Diego Castro Mariscal
+
 Alumno2 - José Antonio Castro Mariscal
 
 
 Estas en un laberinto misterioso y necesitas encontrar la salida. Este laberinto está representado por una matriz cuadrada en la que algunas celdas son caminos y otras son paredes. El objetivo es encontrar un camino desde la entrada hasta la salida utilizando la estrategia de programación dinámica.
 
 Pasos a realizar:
+
 1- Define una matriz cuadrada (minimo de 6X6) que represente el laberinto. Usar valores como 0 para caminos y 1 para paredes.
 
 2- Establece la ubicación de la entrada, (siempre en 0,0) y la salida en el laberinto. Puedes designar este punto con valores especiales en la matriz.
