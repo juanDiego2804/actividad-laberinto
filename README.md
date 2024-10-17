@@ -19,7 +19,7 @@ Pasos a realizar:
 3- Implementa un algoritmo de programación dinámica para encontrar un camino desde la entrada hasta la salida del laberinto.
 
    3.1- Divide el laberinto en secciones más pequeñas y explora recursivamente cada sección para buscar el camino correcto(optar por dividirlo en cuadrantes, filas, columnas u otras subdivisiones creativas).
-     -Al implementar la exploración recursiva, asegúrate de que cada subdivisión explore su propia sección del laberinto y/o su solución impacte directamente en las siguientes instancias o porciones del laberinto. Puedes utilizar funciones recursivas para facilitar este       proceso.
+     -Al implementar la exploración recursiva, asegúrate de que cada subdivisión explore su propia sección del laberinto y/o su solución impacte directamente en las siguientes instancias o porciones del laberinto. Puedes utilizar funciones recursivas para facilitar este proceso.
    
 4- Define una condición de éxito para tu algoritmo. Por ejemplo, considera que el algoritmo tenga éxito cuando encuentra la salida o cuando ha explorado todo el laberinto.
 
