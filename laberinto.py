@@ -37,7 +37,7 @@ def preguntas(): #preguntas/acertijos para el caso de que caiga en cierta casill
         return preguntas()
         
 
-
+#Algoritmo principal usando programacion dinamica
 def encontrarCamino(laberinto, i, j, camino): # i para las filas,  j para las columnas
     filas = len(laberinto)
     columnas = len(laberinto[0])
@@ -114,7 +114,7 @@ laberinto2 = [#laberinto donde no hay camino posible
 laberinto3 = [ #laberinto donde no cae en las preguntas
     [0, 0, 0, 1, 0, 0],
     [0, 1, 0, 0, 0, 0],
-    [1, 1, 1, 0, 0, 0],
+    [1, 1, 1, 0, 1, 0],
     [0, 1, 1, 1, 1, 0],
     [1, 0, 1, 1, 0, 0],
     [0, 1, 0, 1, 1, 2]  
